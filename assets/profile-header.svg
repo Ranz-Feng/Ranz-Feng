@@ -20,7 +20,7 @@
   </style>
 
   <text class="title" x="450" y="68" text-anchor="middle"
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', 'Apple Color Emoji', 'Segoe UI Emoji', Arial, sans-serif"
+        font-family="Georgia, 'Times New Roman', 'Apple Color Emoji', 'Segoe UI Emoji', serif"
         font-size="50" font-weight="700">Hi,I'm Ranz👋</text>
 
   <text class="role" x="450" y="124" text-anchor="middle"
@@ -32,7 +32,7 @@
         font-size="24">让 AI 帮助人们记住、理解并采取行动。</text>
 
   <text class="tagline" x="450" y="222" text-anchor="middle"
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-family="Georgia, 'Times New Roman', serif"
         font-size="21" font-style="italic">Designing AI products that help people remember, understand, and act.</text>
 
   <g transform="translate(175 258)">
