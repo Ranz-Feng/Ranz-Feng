@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Hi,I'm Ranz👋 - AI Product Manager</title>
+  <desc id="desc">Ranz 的 GitHub 个人主页标题，使用与头像匹配的暖棕色调。</desc>
+  <style>
+    .title { fill: #49372f; }
+    .role { fill: #654b3f; }
+    .statement { fill: #725b50; }
+    .tagline { fill: #8a7468; }
+    .tag-bg { fill: #f3ede8; stroke: #ddcfc5; }
+    .tag-text { fill: #5b4439; }
+
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #eaded6; }
+      .role { fill: #dcc8bd; }
+      .statement { fill: #cfb9ad; }
+      .tagline { fill: #bca69a; }
+      .tag-bg { fill: #352b27; stroke: #69564c; }
+      .tag-text { fill: #eaded6; }
+    }
+  </style>
+
+  <text class="title" x="450" y="68" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', 'Apple Color Emoji', 'Segoe UI Emoji', Arial, sans-serif"
+        font-size="50" font-weight="700">Hi,I'm Ranz👋</text>
+
+  <text class="role" x="450" y="124" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Arial, sans-serif"
+        font-size="28" font-weight="700">AI 产品经理 · AI Product Manager</text>
+
+  <text class="statement" x="450" y="176" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Arial, sans-serif"
+        font-size="24">让 AI 帮助人们记住、理解并采取行动。</text>
+
+  <text class="tagline" x="450" y="222" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-size="21" font-style="italic">Designing AI products that help people remember, understand, and act.</text>
+
+  <g transform="translate(175 258)">
+    <rect class="tag-bg" width="176" height="42" rx="7"/>
+    <text class="tag-text" x="88" y="27" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15.5">Personal Memory</text>
+  </g>
+  <g transform="translate(362 258)">
+    <rect class="tag-bg" width="188" height="42" rx="7"/>
+    <text class="tag-text" x="94" y="27" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15.5">Knowledge Products</text>
+  </g>
+  <g transform="translate(561 258)">
+    <rect class="tag-bg" width="164" height="42" rx="7"/>
+    <text class="tag-text" x="82" y="27" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15.5">Agent Workflows</text>
+  </g>
+</svg>
