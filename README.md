@@ -8,21 +8,20 @@
 
 我关注 AI 如何从一次性的问答工具，变成能够理解上下文、沉淀知识并长期协作的产品。
 
-目前主要探索三个方向：
+> AI Product Manager exploring personal memory systems, knowledge products, and human-agent collaboration. I turn ambiguous product problems into structured workflows, testable prototypes, and reusable product methods.
+
+目前主要探索四个方向：
 
 - **个人记忆**：让用户能够持续积累、调用、修正和删除自己的记忆，同时保留清晰的隐私边界。
 - **知识产品**：把碎片信息转化为可学习、可检索、可复用的知识资产。
 - **Agent 工作流**：将复杂任务拆解为边界明确、结果可验证的智能体协作流程。
-
-之后想要进一步探索：
-
-- **多Agent人机协同**：探索人如何与多个专业 Agent 共同完成复杂工作，包括任务编排、过程干预、结果评审、权限边界与责任追溯。
+- **多 Agent 人机协同办公**：探索人在多智能体系统中的任务编排、过程干预、结果评审与责任追溯。
 
 ## Current focus
 
-### Personal Memory Lab `In progress`
+### Personal Memory Lab `Public prototype in progress`
 
-围绕个人记忆产品持续整理和验证：
+围绕个人记忆产品完成了多轮实验、方案分析与产品规划，相关能力已在实际产品中落地。目前正在整理脱敏后的公开原型：
 
 `Capture` → `Extract` → `Organize` → `Recall` → `Apply` → `Update / Forget`
 
@@ -31,9 +30,9 @@
 - 关注提取、召回与应用效果的分层评测，避免只用一个总分掩盖问题。
 - 平衡个性化效果、响应速度、推理成本与隐私安全。
 
-### Product-Agent `In progress`
+### Product-Agent `Public prototype in progress`
 
-面向产品工作的多智能体协作实验。通过明确输入、输出、职责边界和验收标准，让 Agent 参与客研、需求分析、方案设计、评审与需求管理，同时保留主智能体质检。
+独立开发的多 Agent 人机协同办公原型。通过明确输入、输出、职责边界和验收标准，让 Agent 参与客研、需求分析、方案设计、评审与需求管理，同时保留人工确认和主智能体质检。
 
 ## Selected projects
 
