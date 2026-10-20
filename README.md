@@ -32,9 +32,11 @@
 - 关注提取、召回与应用效果的分层评测，避免只用一个总分掩盖问题。
 - 平衡个性化效果、响应速度、推理成本与隐私安全。
 
-### Product-Agent `Public prototype in progress`
+### [FDE Demo](https://github.com/Ranz-Feng/requirement-cockpit-demo) `Local-first demo`
 
-独立开发的多 Agent 人机协同办公原型。通过明确输入、输出、职责边界和验收标准，让 Agent 参与客研、需求分析、方案设计、评审与需求管理，同时保留人工确认和主智能体质检。
+面向 FDE 场景的多 Agent 协作台：把一条客户需求沿需求接收、需求拆解、算法实验、技术方案、开发联调、验收交付六个阶段推进，并为每个阶段保留交付物、责任角色、风险记录与人工确认。
+
+[查看源码](https://github.com/Ranz-Feng/requirement-cockpit-demo)
 
 ## Selected projects
 
