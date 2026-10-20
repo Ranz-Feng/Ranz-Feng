@@ -34,7 +34,7 @@
 
 ### [FDE Demo](https://github.com/Ranz-Feng/requirement-cockpit-demo) `Local-first demo`
 
-面向 FDE 场景的多 Agent 协作台：把一条客户需求沿需求接收、需求拆解、算法实验、技术方案、开发联调、验收交付六个阶段推进，并为每个阶段保留交付物、责任角色、风险记录与人工确认。
+面向 FDE 场景的多 Agent 协作台：把一条需求沿需求接收、需求拆解、算法实验、技术方案、开发联调、验收交付六个阶段推进，并为每个阶段保留交付物、责任角色、风险记录与人工确认。
 
 [查看源码](https://github.com/Ranz-Feng/requirement-cockpit-demo)
 
