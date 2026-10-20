@@ -19,11 +19,13 @@
 
 ## Current focus
 
-### Personal Memory Lab `Public prototype in progress`
+### [Personal Memory Lab](https://github.com/Ranz-Feng/personal-memory-lab) `Public prototype`
 
-围绕个人记忆产品完成了多轮实验、方案分析与产品规划，相关能力已在实际产品中落地。目前正在整理脱敏后的公开原型：
+围绕个人记忆产品完成了多轮实验、方案分析与产品规划，相关能力已在实际产品中落地。现已将脱敏后的记忆闭环整理为可交互公开原型：
 
 `Capture` → `Extract` → `Organize` → `Recall` → `Apply` → `Update / Forget`
+
+[在线体验](https://ranz-feng.github.io/personal-memory-lab/) · [源码](https://github.com/Ranz-Feng/personal-memory-lab)
 
 - 研究画像、对话与行为信息的分层组织方式。
 - 设计记忆查看、编辑、删除和调用提示等用户控制机制。
